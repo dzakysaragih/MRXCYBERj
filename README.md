@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @MRXCYBERj
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-MRXCYBERj/MRXCYBERj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-Everything happens for a reason.
+The daily tragedies and misfortunes are all meaningful events, leading toward an ideal conclusion.
+With that in mind, there probably isn’t really any meaningless misfortune.

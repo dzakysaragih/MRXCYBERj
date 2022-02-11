@@ -8,16 +8,16 @@ My Name is Rafli Surya Pratama, 18 y.o, I'm from Bandung, Indonesia.
 
 - 💬 Ask me about anything, I will help you as best as I can.
 
-- 📫 How to reach me **rafli.rfsp@gmail.com**.
+- 📫 How to reach me **dzakysaragih@pm.me**.
 
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/MRXCYBER/horizon/pull/6) in [MRXCYBER/horizon](https://github.com/RSurya99/horizon)
-2. ❌ Closed PR [#5](https://github.com/MRXCYBER/horizon/pull/5) in [MRXCYBER/horizon](https://github.com/RSurya99/horizon)
+1. 🎉 Merged PR [#6](https://github.com/MRXCYBER/horizon/pull/6) in [MRXCYBER/horizon](https://github.com/MRXCYBERj/horizon)
+2. ❌ Closed PR [#5](https://github.com/MRXCYBER/horizon/pull/5) in [MRXCYBER/horizon](https://github.com/MRXCYBERj/horizon)
 3. ❗️ Opened issue [#1](https://github.com/openafg/nuxt-fullpage/issues/1) in [openafg/nuxt-fullpage](https://github.com/openafg/nuxt-fullpage)
-4. 🎉 Merged PR [#4](https://github.com/MRXCYBER/horizon/pull/4) in [MRXCYBER/horizon](https://github.com/RSurya99/horizon)
-5. 💪 Opened PR [#4](https://github.com/MRXCYBER/horizon/pull/4) in [MRXCYBER/horizon](https://github.com/RSurya99/horizon)
+4. 🎉 Merged PR [#4](https://github.com/MRXCYBER/horizon/pull/4) in [MRXCYBER/horizon](https://github.com/MRXCYBERj/horizon)
+5. 💪 Opened PR [#4](https://github.com/MRXCYBER/horizon/pull/4) in [MRXCYBER/horizon](https://github.com/MRXCYBERj/horizon)
 <!--END_SECTION:activity-->
 
 

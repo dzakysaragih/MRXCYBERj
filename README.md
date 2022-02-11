@@ -23,7 +23,7 @@ My Name is Rafli Surya Pratama, 18 y.o, I'm from Bandung, Indonesia.
 
 ## My Github Stats
 
-[![GithubStats](https://github-readme-stats.vercel.app/api?username=rMRXCYABERj&show_icons=true&theme=tokyonight)](https://github.com/MRXCYBER)
+[![GithubStats](https://github-readme-stats.vercel.app/api?username=rMRXCYABERj&show_icons=true&theme=tokyonight)](https://github.com/MRXCYBERj)
 
 ## My Socials
 

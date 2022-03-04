@@ -1,5 +1,5 @@
 <!--
-**N1ght420/N1ght420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MRXCYABERj/MRXCYABERj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/N1ght420/count.svg" />
+  <img src="https://profile-counter.glitch.me/MRXCYABERj/count.svg" />
 </p>
 
-<img align="right" alt="N1ght420's github stats" src="https://github-readme-stats.vercel.app/api?username=MRXCYABERj&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&line_height=24&theme=radical"/>
+<img align="right" alt="N1ght420's github stats" src="https://github-readme-stats.vercel.app/api?username=N1ght420&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&line_height=24&theme=radical"/>
 <!-- <img align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N1ght420&layout=compact&hide_border=true&theme=radical"/> -->
 
 ### Hi there, my name is Kang Slot 👋

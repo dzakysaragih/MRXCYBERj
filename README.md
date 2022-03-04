@@ -1,43 +1,65 @@
-## Hi there 👋
+<!--
+**MRXCYABERj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-My Name is Rafli Surya Pratama, 18 y.o, I'm from Bandung, Indonesia.
+Here are some ideas to get you started:
 
-<!-- - 🔭 I’m currently working as a freelancer. -->
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
-- 🌱 I’m currently learning **Vue js**, and **Nuxt js**.
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/MRXCYABERj/count.svg" />
+</p>
 
-- 💬 Ask me about anything, I will help you as best as I can.
+<img align="right" alt="N1ght420's github stats" src="https://github-readme-stats.vercel.app/api?username=N1ght420&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&line_height=24&theme=radical"/>
+<!-- <img align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N1ght420&layout=compact&hide_border=true&theme=radical"/> -->
 
-- 📫 How to reach me **dzakysaragih@pm.me**.
+### Hi there, my name is Rakka Pratama 👋
+### I'm a Computer Science and Engineering Student
 
-## Recent Activity
+- 🔭 I’m currently working on Penetration Testing
+- 🌱 I’m currently learning Arduino and Cryptocurrency
+- 👯 I’m looking to collaborate on your Open Source Project
+- ⚡ Fun fact: It's not healthy, but i love chocolate so much
 
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/MRXCYjBER/horizon/pull/6) in [MRXCYBER/jhorizon](https://github.com/MRXCYBERj/horizon)
-2. ❌ Closed PR [#5](https://github.com/MRXCYBERj/horizon/pull/5) in [MRXCYBERj/horizon](https://github.com/MRXCYBERj/horizon)
-3. ❗️ Opened issue [#1](https://github.com/openafg/nuxt-fullpage/issues/1) in [openafg/nuxt-fullpage](https://github.com/openafg/nuxt-fullpage)
-4. 🎉 Merged PR [#4](https://github.com/MRXCYBERj/horizon/pull/4) in [MRXCYBERj/horizon](https://github.com/MRXCYBERj/horizon)
-5. 💪 Opened PR [#4](https://github.com/MRXCYBERj/horizon/pull/4) in [MRXCYBERj/horizon](https://github.com/MRXCYBERj/horizon)
-<!--END_SECTION:activity-->
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
+### Spotify Playing 🎧
 
-## My Github Stats
+<!--[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3k5y2ces5jd1d2w0g08kct5ri&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=3k5y2ces5jd1d2w0g08kct5ri&redirect=true)-->
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mh8vqpv844kthenz2y766woot&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=mh8vqpv844kthenz2y766woot&redirect=true)
 
-[![GithubStats](https://github-readme-stats.vercel.app/api?username=rMRXCYABERj&show_icons=true&theme=tokyonight)](https://github.com/MRXCYBERj)
+<details>
+  <summary><b>Pinned Repositories</b></summary>
+  <p align="center">
+  <img alt="Pinned Repository" src="https://github-readme-stats.vercel.app/api/pin/?username=N1ght420&repo=N1ght_Frmwrk&hide_border=true&theme=radical"/>
+  <img alt="Pinned Repository" src="https://github-readme-stats.vercel.app/api/pin/?username=N1ght420&repo=Ipentst&hide_border=true&theme=radical"/>
+  <img alt="Pinned Repository" src="https://github-readme-stats.vercel.app/api/pin/?username=N1ght420&repo=LKx21&hide_border=true&theme=radical"/>
+  <img alt="Pinned Repository" src="https://github-readme-stats.vercel.app/api/pin/?username=N1ght420&repo=Lazmania&hide_border=true&theme=radical"/>
+  <img alt="Pinned Repository" src="https://github-readme-stats.vercel.app/api/pin/?username=N1ght420&repo=IbisNM&hide_border=true&theme=radical"/>
+  <img alt="Pinned Repository" src="https://github-readme-stats.vercel.app/api/pin/?username=N1ght420&repo=Netroid&hide_border=true&theme=radical"/>
+  <img alt="Pinned Repository" src="https://github-readme-stats.vercel.app/api/pin/?username=N1ght420&repo=cidms&hide_border=true&theme=radical"/>
+  <img alt="Pinned Repository" src="https://github-readme-stats.vercel.app/api/pin/?username=N1ght420&repo=Dircrunch&hide_border=true&theme=radical"/>
+  <img alt="Pinned Repository" src="https://github-readme-stats.vercel.app/api/pin/?username=N1ght420&repo=Fakkuyu&hide_border=true&theme=radical"/>
+  <img alt="Pinned Repository" src="https://github-readme-stats.vercel.app/api/pin/?username=N1ght420&repo=adfinder&hide_border=true&theme=radical"/>
+  </p>
+</details>
 
-## My Socials
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://www.facebook.com/NyellNdell)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.youtube.com/lombokdevofficial)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](http://www.github.com/muhammaddzaky)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://ko-fi.com/dzakyid)
-
-## My Mainly Use
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Vuejs](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+<details>
+  <summary><b>Connect with me</b></summary>
+  <p align="center">
+    <i>Let's connect and chat! We are about to Change the World.</i><br><br>
+    <a href="https://twitter.com/n1ghtpe0ple420" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="n1ghtpe0ple420" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/rakka-pratama-74612718b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rakka-pratama-74612718b" height="30" width="40" /></a>
+    <a href="https://fb.com/n1ghtpe0ple420" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="n1ghtpe0ple420" height="30" width="40" /></a>
+    <a href="https://instagram.com/putra.go.id" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="putra.go.id" height="30" width="40" /></a>
+    <a href="https://www.youtube.com/c/ucz44r-0tngtx0bjmmejeb4q" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucz44r-0tngtx0bjmmejeb4q" height="30" width="40" /></a>
+  </p>
+</details>

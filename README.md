@@ -1,5 +1,5 @@
 <!-- Name Card -->
-![MRXCYBERj  Name Card](https://cardivo.vercel.app/api?name=Firman%20Fathoni&description=Cyber%20Security%20Enthusiast,%20Junior%20Developer&image=https://avatars.githubusercontent.com/u/36108013?v=4&backgroundColor=%23313f43&instagram=firmanfathoni_&linkedin=Firman%20Fathoni&github=FirmanFathoni&twitter=firmanfathoni_&pattern=hideout&colorPattern=%23EFF4F6&opacity=0.05&iconColor=%23fff&fontColor=%23eff4f6)
+![MRXCYBERj  Name Card](https://cardivo.vercel.app/api?name=Firman%20Fathoni&description=Cyber%20Security%20Enthusiast,%20Junior%20Developer&image=https://avatars.githubusercontent.com/u/36108013?v=4&backgroundColor=%23313f43&instagram=djarraofficial/&%20Fathoni&github=MRXCYABERj&twitter=firmanfathoni_&pattern=hideout&colorPattern=%23EFF4F6&opacity=0.05&iconColor=%23fff&fontColor=%23eff4f6)
 
 <!-- Socmed Button -->
 <div align="center">

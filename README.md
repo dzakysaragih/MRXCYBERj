@@ -1,5 +1,5 @@
 <!-- Name Card -->
-![MRXCYBERj  Name Card](https://cardivo.vercel.app/api?name=Firman%20Fathoni&description=Cyber%20Security%20Enthusiast,%20Junior%20Developer&image=https://avatars.githubusercontent.com/u/36108013?v=4&backgroundColor=%23313f43&instagram=djarraofficial/&%20Fathoni&github=MRXCYABERj&twitter=firmanfathoni_&pattern=hideout&colorPattern=%23EFF4F6&opacity=0.05&iconColor=%23fff&fontColor=%23eff4f6)
+![MRXCYBERj  Name Card](https://cardivo.vercel.app/api?name=MRXCYABERj&description=Cyber%20Security%20Enthusiast,%20Junior%20Developer&image=https://avatars.githubusercontent.com/u/36108013?v=4&backgroundColor=%23313f43&instagram=djarraofficial/&%20Fathoni&github=MRXCYABERj&twitter=firmanfathoni_&pattern=hideout&colorPattern=%23EFF4F6&opacity=0.05&iconColor=%23fff&fontColor=%23eff4f6)
 
 <!-- Socmed Button -->
 <div align="center">
@@ -61,8 +61,8 @@ gpg --import <(curl -sL https://git.io/JMdmw)
 <details>
 <summary>Stats</summary>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=FirmanFathoni&hide_border=true&theme=react&show_icons=true&bg_color=1a1c1f&custom_title=Firman%20Fathoni%27s%20GitHub%20Stats" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MRXCYABERji&hide_border=true&theme=react&show_icons=true&bg_color=1a1c1f&custom_title=MRXCYABERj%20Fathoni%27s%20GitHub%20Stats" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FirmanFathoni&layout=compact&hide_border=true&theme=react&bg_color=1a1c1f" alt="Top Language" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRXCYABERj&layout=compact&hide_border=true&theme=react&bg_color=1a1c1f" alt="Top Language" />
 </details>
 </div>

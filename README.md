@@ -61,7 +61,7 @@ gpg --import <(curl -sL https://git.io/JMdmw)
 <details>
 <summary>Stats</summary>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=MRXCYABERji&hide_border=true&theme=react&show_icons=true&bg_color=1a1c1f&custom_title=MRXCYABERj%20Fathoni%27s%20GitHub%20Stats" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MRXCYABERji&hide_border=true&theme=react&show_icons=true&bg_color=1a1c1f&custom_title=%20Fathoni%27s%20GitHub%20Stats" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MRXCYABERj&layout=compact&hide_border=true&theme=react&bg_color=1a1c1f" alt="Top Language" />
 </details>

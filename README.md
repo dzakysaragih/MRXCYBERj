@@ -1,65 +1,68 @@
-<!--
-**MRXCYABERj/MRXCYABERj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Name Card -->
+![MRXCYBERj  Name Card](https://cardivo.vercel.app/api?name=Firman%20Fathoni&description=Cyber%20Security%20Enthusiast,%20Junior%20Developer&image=https://avatars.githubusercontent.com/u/36108013?v=4&backgroundColor=%23313f43&instagram=firmanfathoni_&linkedin=Firman%20Fathoni&github=FirmanFathoni&twitter=firmanfathoni_&pattern=hideout&colorPattern=%23EFF4F6&opacity=0.05&iconColor=%23fff&fontColor=%23eff4f6)
 
-Here are some ideas to get you started:
+<!-- Socmed Button -->
+<div align="center">
+   You can reach me here:<br><br>
+  <a href="mailto: mrizkylubisbisnes@gmail.com tyle="text-decoration: none;">
+    <img src="https://img.shields.io/badge/email%20me%20here-%23EA4335?&style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href= style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2?&style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/MRXCYABERj/count.svg" />
+   <a href="https://facebook.com/firmanfathoni1337" target="_blank">
+    <img src="https://img.shields.io/badge/-Facebook-1877f2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+
+  
+    <img src="https://img.shields.io/badge/instagram-%23E4405F?&style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+
+ <a href="https://www.facebook.com/IkanXD/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+ <a href="https://www.instagram.com/djarraofficial/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/telegram-%2326A5E4?&style=for-the-badge&logo=telegram&logoColor=white"/>
+  </a>
+
+---
+
+<details>
+<summary>&#128274; PGP  Privasi  </mmary>
+
+```
+curl -sL https://git.io/JMdmw | gpg --import
+```
+or
+```
+gpg --import <(curl -sL https://git.io/JMdmw)
+```
+</details>
+
+<!-- Activity Section -->
+<details>
+  <summary>Activity</summary>
+  <br/>
+  <img src="https://lanyard-profile-readme.vercel.app/api/529270835341426708" alt="Discord Presence" />
+  <br>
+  <br>
+  	&#127911; Now playing on Spotify :
+  <p align="center">
+    <a target="_blank" href="https://spotify-github-profile.vercel.app/api/view?uid=firmanfathoni123&redirect=true">
+        <img width="100%" alt="Now Playing" src="https://spotify-github-profile.vercel.app/api/view?uid=firmanfathoni123&cover_image=true&theme=novatorem"/>
+    </a>
 </p>
-
-<img align="right" alt="N1ght420's github stats" src="https://github-readme-stats.vercel.app/api?username=MRXCYBERj&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&line_height=24&theme=radical"/>
-<!-- <img align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N1ght420&layout=compact&hide_border=true&theme=radical"/> -->
-
-### Hi there, my name is Kang Slot 👋
-### I'm a Computer Science and Engineering Student
-
-- 🔭 I’m currently working on Penetration Testing
-- 🌱 I’m currently learning Arduino and Cryptocurrency
-- 👯 I’m looking to collaborate on your Open Source Project
-- ⚡ Fun fact: It's not healthy, but i love chocolate so much
-
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-### Spotify Playing 🎧
-
-<!--[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=3k5y2ces5jd1d2w0g08kct5ri&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=3k5y2ces5jd1d2w0g08kct5ri&redirect=true)-->
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=mh8vqpv844kthenz2y766woot&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=mh8vqpv844kthenz2y766woot&redirect=true)
-
-<details>
-  <summary><b>Pinned Repositories</b></summary>
-  <p align="center">
-  <img alt="Pinned Repository" src="https://github-readme-stats.vercel.app/api/pin/?username=N1ght420&repo=N1ght_Frmwrk&hide_border=true&theme=radical"/>
-  <img alt="Pinned Repository" src="https://github-readme-stats.vercel.app/api/pin/?username=N1ght420&repo=Ipentst&hide_border=true&theme=radical"/>
-  <img alt="Pinned Repository" src="https://github-readme-stats.vercel.app/api/pin/?username=N1ght420&repo=LKx21&hide_border=true&theme=radical"/>
-  <img alt="Pinned Repository" src="https://github-readme-stats.vercel.app/api/pin/?username=N1ght420&repo=Lazmania&hide_border=true&theme=radical"/>
-  <img alt="Pinned Repository" src="https://github-readme-stats.vercel.app/api/pin/?username=N1ght420&repo=IbisNM&hide_border=true&theme=radical"/>
-  <img alt="Pinned Repository" src="https://github-readme-stats.vercel.app/api/pin/?username=N1ght420&repo=Netroid&hide_border=true&theme=radical"/>
-  <img alt="Pinned Repository" src="https://github-readme-stats.vercel.app/api/pin/?username=N1ght420&repo=cidms&hide_border=true&theme=radical"/>
-  <img alt="Pinned Repository" src="https://github-readme-stats.vercel.app/api/pin/?username=N1ght420&repo=Dircrunch&hide_border=true&theme=radical"/>
-  <img alt="Pinned Repository" src="https://github-readme-stats.vercel.app/api/pin/?username=N1ght420&repo=Fakkuyu&hide_border=true&theme=radical"/>
-  <img alt="Pinned Repository" src="https://github-readme-stats.vercel.app/api/pin/?username=N1ght420&repo=adfinder&hide_border=true&theme=radical"/>
-  </p>
 </details>
 
+<!-- Stats Section -->
 <details>
-  <summary><b>Connect with me</b></summary>
-  <p align="center">
-    <i>Let's connect and chat! We are about to Change the World.</i><br><br>
-    <a href="https://twitter.com/n1ghtpe0ple420" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="n1ghtpe0ple420" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/rakka-pratama-74612718b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rakka-pratama-74612718b" height="30" width="40" /></a>
-    <a href="https://fb.com/n1ghtpe0ple420" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="n1ghtpe0ple420" height="30" width="40" /></a>
-    <a href="https://instagram.com/putra.go.id" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="putra.go.id" height="30" width="40" /></a>
-    <a href="https://www.youtube.com/c/ucz44r-0tngtx0bjmmejeb4q" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="ucz44r-0tngtx0bjmmejeb4q" height="30" width="40" /></a>
-  </p>
+<summary>Stats</summary>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=FirmanFathoni&hide_border=true&theme=react&show_icons=true&bg_color=1a1c1f&custom_title=Firman%20Fathoni%27s%20GitHub%20Stats" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FirmanFathoni&layout=compact&hide_border=true&theme=react&bg_color=1a1c1f" alt="Top Language" />
 </details>
+</div>

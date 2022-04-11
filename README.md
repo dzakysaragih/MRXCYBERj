@@ -51,11 +51,4 @@ gpg --import <(curl -sL https://git.io/JMdmw)
   <p align="center">
     <a target="_blank" href="https://spotify-github-profile.vercel.app/api/view?uid=firmanfathoni123&redirect=true">
         <img width="100%" alt="Now Playing" src="https://spotify-github-profile.vercel.app/api/view?uid=firmanfathoni123&cover_image=true&theme=novatorem"/>
-    </a>
-</p>
-</details>
-
-<!-- Stats Section -->
-<details>
-<summary>Stats</summary>
-  <br/>
+ 

@@ -42,7 +42,8 @@ gpg --import <(curl -sL https://git.io/JMdmw)
 
   <br>
   <br>
-  	&#127911; Now playing on Spotify :
+  	&#127911; play music on softy
+ :
   <p align="center">
     <a target="_blank" href="https://spotify-github-profile.vercel.app/api/view?uid=firmanfathoni123&redirect=true">
         <img width="100%" alt="Now Playing" src="https://spotify-github-profile.vercel.app/api/view?uid=firmanfathoni123&cover_image=true&theme=novatorem"/>

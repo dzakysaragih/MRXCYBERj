@@ -28,7 +28,7 @@
   </a>
 
 <a href="https://www.youtube.com/djarraofficialah?fbclid=IwAR3bjk1WDAWg0VeGOcXhOKZSmU6axVI9w2RVKNKoX5W9ECI062MDIfeqf0U" style="text-decoration: none;">
-<img src="https://img.shields.io/badge/youtube-%2326A5E4?&style=for-the-badge&logo=telegram&logoColor=white"/> 
+<img src="https://img.shields.io/badge/youtube-%2326A5E4?&style=for-the-badge&logo=youtube&logoColor=white"/> 
 
   </a>
 

@@ -22,8 +22,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
- <a href="https://www.instagram.com/djarraofficial/" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/telegram-%2326A5E4?&style=for-the-badge&logo=telegram&logoColor=white"/>
+ <a href="https://twitter.com/DzakySaragih?fbclid=IwAR3bjk1WDAWg0VeGOcXhOKZSmU6axVI9w2RVKNKoX5W9ECI062MDIfeqf0U" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/twitter-%2326A5E4?&style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
 
 ---
